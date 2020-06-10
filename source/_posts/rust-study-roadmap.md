@@ -1,10 +1,8 @@
 ---
-title: rust-study-roadmap
+title: Rust学习路线
 date: 2020-06-10 11:31:39
 tags: rust
 ---
-
-# Rust Study RoadMap
 
 ## 背景
 
