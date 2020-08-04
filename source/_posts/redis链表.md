@@ -62,4 +62,6 @@ typedef struct list{
 - 双端
 - 可以用来保存各种类型的数据
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fcee271d-f039-41f6-b3ab-9e13ef0b893b/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fcee271d-f039-41f6-b3ab-9e13ef0b893b/Untitled.png)
+![image1](../images/redis-linklist/linklist.png)
+
+{% img ../images/redis-linklist/linklist.png %}
