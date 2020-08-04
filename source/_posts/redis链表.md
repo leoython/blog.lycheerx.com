@@ -62,6 +62,4 @@ typedef struct list{
 - 双端
 - 可以用来保存各种类型的数据
 
-![image1](../images/redis-linklist/linklist.png)
-
-{% img ../images/redis-linklist/linklist.png %}
+![image1](/images/redis-linklist/linklist.png)

@@ -56,8 +56,8 @@ struct sdshdr {
 
 ### SDS与C语言字符串
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b5954ae2-e977-4a5a-90d2-9744d361edc0/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b5954ae2-e977-4a5a-90d2-9744d361edc0/Untitled.png)
+![image1](/images/redis-sds/redis-sds-and-c-string.jpeg)
 
 ## 小结
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/22819e08-d720-4e6b-8ff9-7b24d04f5ec7/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/22819e08-d720-4e6b-8ff9-7b24d04f5ec7/Untitled.png)
+![image1](/images/redis-sds/redis-sds-important.jpeg)

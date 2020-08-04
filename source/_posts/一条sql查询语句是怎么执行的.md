@@ -5,7 +5,7 @@ tags: Mysql
 ---
 ## mysql 基本架构
 
-{% asset_path slug %}
+![image1](/images/how-sql-excute/mysql-struct.png)
 
 ## 各部分职责
 
